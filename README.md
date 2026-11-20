@@ -17,7 +17,7 @@ Criamos sites, softwares e produtos digitais para empresas prontas para evoluir.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### <a href="https://github.com/satostudios/Neku">Neku ↗</a>
 
@@ -26,6 +26,28 @@ Um agente de IA local para Windows 11 que reside na barra de tarefas.
 <code>Python</code> <code>IA Local</code> <code>Código Aberto</code>
 
 <sub>SATO × Vetra</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### <a href="https://github.com/satostudios/Nexus">Nexus ↗</a>
+
+Organizador pessoal para Windows que reúne tarefas, agenda, hábitos, metas, anotações e diário em um só lugar.
+
+<code>Produtividade</code> <code>Offline</code> <code>Basic Grátis</code>
+
+<sub>SATO</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### <a href="https://github.com/satostudios/Nexus-IA">Nexus IA ↗</a>
+
+Assistente de IA local para Windows que executa ações por voz ou texto, automatiza tarefas e cria textos e códigos.
+
+<code>Python</code> <code>IA Local</code> <code>Código Aberto</code>
+
+<sub>SATO</sub>
 
 </td>
 </tr>
