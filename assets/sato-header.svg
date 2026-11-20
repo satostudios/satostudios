@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">SATO / Build What's Next.</title>
+  <desc id="desc">Monochrome editorial banner for an independent digital product studio.</desc>
+  <rect width="1000" height="300" fill="#090909"/>
+  <rect x="1" y="1" width="998" height="298" fill="none" stroke="#303030"/>
+  <g fill="none" stroke="#252525">
+    <path d="M40 58H960M40 247H960"/>
+    <path d="M760 79V225M780 79V225M800 79V225M820 79V225M840 79V225M860 79V225M880 79V225M900 79V225M920 79V225M940 79V225M760 85H940M760 105H940M760 125H940M760 145H940M760 165H940M760 185H940M760 205H940"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="40" y="37" font-size="15" font-weight="bold" fill="#f4f4f4">SATO</text>
+    <text x="96" y="37" font-size="12" fill="#a3a3a3">/ DIGITAL PRODUCT STUDIO</text>
+    <text x="960" y="37" font-size="12" fill="#a3a3a3" text-anchor="end">01 — STUDIO</text>
+    <text x="40" y="274" font-size="12" fill="#a3a3a3">WEB / SOFTWARE / PRODUCTS</text>
+    <text x="960" y="274" font-size="12" fill="#a3a3a3" text-anchor="end">GOIÁS, BR</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-4">
+    <text x="36" y="142" fill="#f4f4f4">Build What's</text>
+    <text x="36" y="218" fill="#f4f4f4">Next.</text>
+  </g>
+  <g fill="none" stroke="#f4f4f4" stroke-width="4" stroke-linecap="square">
+    <path d="M792 181L906 96M856 96H906V147"/>
+  </g>
+</svg>
