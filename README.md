@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**satostudios/satostudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# sato.studios
 
-Here are some ideas to get you started:
+`DESIGN / DEVELOPMENT / TECHNOLOGY`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Criando experiências digitais com propósito.
+
+</div>
+
+---
+
+### 01 / About
+
+Sato Studios — explorando a interseção entre design, tecnologia e desenvolvimento de software.
+
+### 02 / Featured project
+
+**[Neku ↗](https://github.com/satostudios/Neku)**
+
+Agente de IA local para Windows 11 que vive na barra de tarefas.
+
+`Python` · `Local AI` · `Open Source`
+
+Parceria Sato Studios × Vetra.
+
+---
+
+<div align="center">
+  <sub>SATO STUDIOS — Creative Development</sub>
+</div>
