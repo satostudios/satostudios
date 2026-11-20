@@ -43,19 +43,8 @@
 
 ---
 
-### 03 / Foco do estúdio
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'pie1':'#8b5cf6','pie2':'#a78bfa','pie3':'#4c1d95','pieStrokeColor':'#0d1117','pieOuterStrokeColor':'#0d1117','pieTitleTextColor':'#c9d1d9','pieLegendTextColor':'#c9d1d9','pieSectionTextColor':'#ffffff'}}}%%
-pie showData title Onde o Sato Studios atua
-    "Desenvolvimento" : 40
-    "Design visual" : 35
-    "Motion & edição" : 25
-```
-
----
-
-### 04 / Como trabalhamos
+### 03 / Como trabalhamos
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#1f2937','primaryTextColor':'#ffffff','primaryBorderColor':'#8b5cf6','lineColor':'#a78bfa','fontFamily':'monospace'}}}%%
@@ -71,7 +60,7 @@ flowchart LR
 
 ---
 
-### 05 / Stack
+### 04 / Stack
 
 <div align="center">
 
@@ -90,7 +79,7 @@ flowchart LR
 
 ---
 
-### 06 / Em números
+### 05 / Em números
 
 <div align="center">
 
@@ -103,7 +92,7 @@ flowchart LR
 
 ---
 
-### 07 / Contato
+### 06 / Contato
 
 <div align="center">
 
